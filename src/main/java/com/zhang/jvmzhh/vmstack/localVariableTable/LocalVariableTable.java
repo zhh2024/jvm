@@ -1,4 +1,4 @@
-package com.zhang.jvmzhh.vmstack;
+package com.zhang.jvmzhh.vmstack.localVariableTable;
 
 import com.zhang.jvmzhh.classLoad.Parent;
 
