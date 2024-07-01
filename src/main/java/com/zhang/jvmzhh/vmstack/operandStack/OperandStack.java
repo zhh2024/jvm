@@ -1,7 +1,7 @@
 package com.zhang.jvmzhh.vmstack.operandStack;
 
 /**
- * @Desc: 操作数栈
+ * @Desc: 操作数栈, 4个字节占一个槽,8个字节占两个槽。
  * @Author：zhh
  * @Date：2024/6/7 15:22
  */
@@ -19,11 +19,4 @@ public class OperandStack {
         return num3;
     }
 
-    /**
-     * 类型转换问题
-     */
-    public void test2(){
-        byte b = 1;
-        int a =2;
-    }
 }

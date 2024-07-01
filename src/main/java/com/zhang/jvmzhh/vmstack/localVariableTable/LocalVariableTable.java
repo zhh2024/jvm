@@ -4,7 +4,7 @@ import com.zhang.jvmzhh.classLoad.Parent;
 
 /**
  * @Desc: 局部变量表
- * 方法a和方法b 是两个栈帧,每个栈帧维护了自己的局部变量表,所以方法a的i值并不会被方法b修改
+ * 方法a和方法b 是两个栈帧,每个栈帧维护了自己的局部变量表,所以方法a的i值并不会被方法b修改。
  * @Author：zhh
  * @Date：2024/6/7 10:07
  */
