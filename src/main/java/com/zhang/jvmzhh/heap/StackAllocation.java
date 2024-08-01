@@ -33,7 +33,6 @@ public class StackAllocation {
     }
 
     private static void alloc() {
-
         User user = new User();
         user.getName();
     }
