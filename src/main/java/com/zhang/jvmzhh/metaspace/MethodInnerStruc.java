@@ -3,7 +3,7 @@ package com.zhang.jvmzhh.metaspace;
 import java.io.Serializable;
 
 /**
- * @Desc: 测试方法区的内部构成
+ * @Desc: 测试方法区的内部构成  javap -v -p MethodInnerStruc.class
  * @Author：zhh
  * @Date：2024/7/9 17:32
  */
